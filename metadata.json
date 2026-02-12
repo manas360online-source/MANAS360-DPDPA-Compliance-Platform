@@ -1,0 +1,8 @@
+{
+  "name": "MANAS360 DPDPA Compliance Platform",
+  "description": "A comprehensive data residency and DPDPA 2023 compliance management platform for digital mental health services, featuring interactive checklists, data flow mapping, and real-time compliance tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
